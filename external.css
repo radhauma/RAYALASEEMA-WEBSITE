@@ -1,0 +1,35 @@
+body{
+    font-family:cursive;
+    margin:0;
+    padding:0;
+    background-color:salmon;
+    color:white;
+
+}
+header{
+    padding:1em;
+    text-align:center;
+    background-color:salmon;
+    color:white;
+}
+nav ul li{
+    display:inline;
+    margin-right:20px;
+}
+nav a{
+    text-decoration:none;
+
+}
+.main-content{
+    max-width:800px;
+    margin:20px auto;
+    padding:20px;
+    border-radius:8px;
+    box-shadow:0 0 10px aqua;
+
+}
+footer{
+    text-align:center;
+    padding:1em;
+
+}
